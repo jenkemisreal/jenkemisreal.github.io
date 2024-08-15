@@ -1,0 +1,26 @@
+/* Google Font */
+
+/*The rest of the CSS */
+h1 {
+        text-transform: uppercase;
+        font-size: 3rem;
+}  
+
+body {
+    background-color: #202425;
+}
+
+.divalignment {
+    width: 50%;
+  margin-left: 25%;
+  margin-top: 100px;
+  color: #D3A280;
+  font-family: "Libre Baskerville", serif;
+  text-align: center;
+}
+
+.picture-border {
+    width: 100%;
+    border: 5px outset #825C47;
+
+}
